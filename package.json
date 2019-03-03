@@ -1,0 +1,26 @@
+{
+  "name": "SSManager",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:dmitrij-borchuk/SSManager.git",
+  "author": "Dmytro Borchuk <dborchuk@remit.se>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "dependencies": {
+    "@types/react": "^16.8.6",
+    "@types/react-dom": "^16.8.2",
+    "awesome-typescript-loader": "^5.2.1",
+    "html-webpack-plugin": "^3.2.0",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.3.3333",
+    "webpack": "^4.29.6",
+    "webpack-dev-server": "^3.2.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.2.3"
+  }
+}
